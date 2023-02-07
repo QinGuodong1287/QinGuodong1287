@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm a student, and I'm new here.
+I'm a beginning programmer, and I need learning.
