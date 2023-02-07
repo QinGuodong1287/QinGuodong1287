@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student, and I'm new here.
+I'm a student, and I'm new here.\
 I'm a beginning programmer, and I need learning.
